@@ -18,7 +18,7 @@ If you're missing an event in the list please [open a pull request](https://gith
 - [ClueCon](https://www.cluecon.com/) (5 - 9 August, Chicago) - Conference for developers by developers by the people behind FreeSWITCH.
 - [TIP Summit](https://summit.telecominfraproject.com/) (13 - 14 November, Amsterdam) - Community event about connectivity technology.
 
-# Events in 2010
+# Events in 2020
 - [ITExpo](https://www.itexpo.com/) (12 - 14 February, Ft. Lauderdale, Florida) - Big expo about business, tech and new communication innovations. 
 - [Cloud Comms Summit](https://www.cloudcommssummit.com/) (5th of March, London) - Service provider event organised by the Cavell Group about business, regulatory and other aspects of VoIP. 
 - [Kamailio World](www.kamailioworld.com/) (27 - 29 April, Berlin) - Conference surrounding Kamailio and a wide range of other communication technologies. 
