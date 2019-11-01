@@ -16,6 +16,7 @@ If you're missing an event in the list please [open a pull request](https://gith
 - [OpenSIPS Summit](https://opensips.org/events/Summit-2019Amsterdam/) (30th April - 3rd May, Amsterdam) - Conference surrounding OpenSIPS and the open source ecosystem.
 - [JanusCon](https://www.januscon.it/) (23 - 25 September, Napoli) :star: - Conference about the general purpose WebRTC server Janus and VoIP/RTC in general.
 - [ClueCon](https://www.cluecon.com/) (5 - 9 August, Chicago) - Conference for developers by developers by the people behind FreeSWITCH.
+- [AstriCon](https://www.asterisk.org/community/astricon-user-conference) (29 - 30 October, Atlanta) - The annual Asterisk, and FreePBX user conference.
 - [TIP Summit](https://summit.telecominfraproject.com/) (13 - 14 November, Amsterdam) - Community event about connectivity technology.
 
 # Events in 2020
