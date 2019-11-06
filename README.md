@@ -22,10 +22,10 @@ If you're missing an event in the list please [open a pull request](https://gith
 # Events in 2020
 - [ITExpo](https://www.itexpo.com/) (12 - 14 February, Ft. Lauderdale, Florida) - Big expo about business, tech and new communication innovations. 
 - [Cloud Comms Summit](https://www.cloudcommssummit.com/) (5th of March, London) - Service provider event organised by the Cavell Group about business, regulatory and other aspects of VoIP. 
-- [Kamailio World](www.kamailioworld.com/) (27 - 29 April, Berlin) - Conference surrounding Kamailio and a wide range of other communication technologies. 
+- [Kamailio World](https://www.kamailioworld.com/) (27 - 29 April, Berlin) - Conference surrounding Kamailio and a wide range of other communication technologies. 
 - [ClueCon](https://www.cluecon.com/) (3 - 6 August, Chicago) - Conference for developers by developers by the people behind FreeSWITCH.
 - [Signal](https://signal.twilio.com/) (20 - 21 May, San Francisco) - Conference hosted by Twilio about their own products and other general VoIP topics.
-- [OpenSIPS Summit](www.opensips.org/events/Summit-2020Amsterdam/) (5 - 8 May, Amsterdam) - Conference surrounding OpenSIPS and the open source VoIP ecosystem.
+- [OpenSIPS Summit](https://www.opensips.org/events/Summit-2020Amsterdam/) (5 - 8 May, Amsterdam) - Conference surrounding OpenSIPS and the open source VoIP ecosystem.
 
 ## License
 
